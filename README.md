@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Hi, I'm Rocío! 👋
 
 ### Software Engineering Student at Codam | Amsterdam, Netherlands
@@ -73,4 +71,4 @@ I'm based in Amsterdam and open to opportunities in the Netherlands.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocio-panetta-b1715b308/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-RPanetta-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RPanetta)
--->
+
